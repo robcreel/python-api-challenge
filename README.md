@@ -4,6 +4,15 @@
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's answer a fundamental question: "What's the weather like as we approach the equator?"
 
+#### Requirements
+
+```
+python, pandas, matplotlib
+
+```
+
+
+
 ![Equator](Images/equatorsign.png)
 
 ## Part I - Weather
