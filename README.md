@@ -2,13 +2,11 @@
 
 ## Background
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's answer a fundamental question: "What's the weather like as we approach the equator?"Now, we know what you may be thinking: _"Duh. It gets hotter..."_
-
-But, if pressed, how would you **prove** it?
+Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's answer a fundamental question: "What's the weather like as we approach the equator?"
 
 ![Equator](Images/equatorsign.png)
 
-## Part I - WeatherPy
+## Part I - Weather
 
 In this example, we'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little logic to create a representative model of weather across world cities.
 
@@ -41,7 +39,7 @@ Our notebook will:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+### Part II - Vacation
 
 Now we work with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
